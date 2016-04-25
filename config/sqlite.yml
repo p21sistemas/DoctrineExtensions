@@ -25,6 +25,7 @@ doctrine:
 
              string_functions:
 #                 binary: DoctrineExtensions\Query\Sqlite\Binary
+                 cast: DoctrineExtensions\Query\Sqlite\Cast
 #                 char_length: DoctrineExtensions\Query\Sqlite\CharLength
                  concat_ws: DoctrineExtensions\Query\Sqlite\ConcatWs
 #                 countif: DoctrineExtensions\Query\Sqlite\CountIf
